@@ -1,0 +1,19 @@
+{
+	"name": "curried-intrinsic",
+	"description": "Curried intrinsic functions",
+	"author": "andjsrk",
+	"version": "0.1.0",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "latest"
+	},
+	"dependencies": {
+		"create-curried": "^1.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andjsrk/curried-intrinsic.git"
+	},
+	"homepage": "https://github.com/andjsrk/curried-intrinsic",
+	"keywords": ["curry", "intrinsic"]
+}
