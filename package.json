@@ -4,6 +4,9 @@
 	"author": "andjsrk",
 	"version": "0.1.4",
 	"license": "MIT",
+	"exports": {
+		"./*": "./dist/*"
+	},
 	"devDependencies": {
 		"typescript": "latest"
 	},
