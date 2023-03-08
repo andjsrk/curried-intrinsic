@@ -1,5 +1,5 @@
 # curried-intrinsic
-Curried intrinsic functions
+Curried intrinsics
 
 # Installation
 ```
