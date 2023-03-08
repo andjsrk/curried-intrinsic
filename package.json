@@ -15,5 +15,5 @@
 		"url": "https://github.com/andjsrk/curried-intrinsic.git"
 	},
 	"homepage": "https://github.com/andjsrk/curried-intrinsic",
-	"keywords": ["curry", "intrinsic"]
+	"keywords": ["currying", "intrinsics"]
 }
