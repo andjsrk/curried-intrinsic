@@ -1,3 +1,3 @@
 import { at } from '../at'
 
-export const lastOf = at(-1)
+export const last = at(-1)
