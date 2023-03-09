@@ -5,7 +5,10 @@
 	"version": "0.1.6",
 	"license": "MIT",
 	"exports": {
-		"./*": "./dist/*.js"
+		"./*": {
+			"types": "./dist/*",
+			"default": "./dist/*.js"
+		}
 	},
 	"devDependencies": {
 		"typescript": "latest"
