@@ -1,3 +1,3 @@
-import { binary } from '../../_base'
+import { binary } from '../../_binary'
 
 export const and = binary<number>()(a => b => a & b)

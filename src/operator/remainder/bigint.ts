@@ -1,3 +1,3 @@
-import { binary } from '../_base'
+import { binary } from '../_binary'
 
 export const remainder = binary<bigint>()(b => a => a % b)
